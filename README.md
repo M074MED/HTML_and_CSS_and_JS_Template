@@ -1,5 +1,5 @@
 # HTML_and_CSS_and_JS_Template
-This is Template with HTML and pure CSS and pure JavaScript
+This is a Template with HTML and pure CSS and pure JavaScript. (Responsive Design)
 
 
 ### About Me:
