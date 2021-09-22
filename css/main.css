@@ -522,10 +522,11 @@ footer {
     text-align: center;
     background-color: var(--secondary-color, #2c4755);
     color: white;
-    font-weight: bold;
     padding: 40px;
 }
-footer span {
+footer a {
+    text-decoration: none;
+    font-weight: bold;
     color: var(--main-color, #10cab7);
 }
 /* Start Footer */
