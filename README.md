@@ -21,6 +21,7 @@ View The Project: https://m074med.github.io/HTML_and_CSS_and_JS_Template/
 ######  -jQuery
 ######  -Bootstrap
 ######  -React JS
+######  -C++
 ######  -Git & GitHub
 ######  -Command Line
 ######  -Linux
